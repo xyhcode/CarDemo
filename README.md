@@ -2,6 +2,7 @@
 
 #### 介绍
 JavaWeb layui框架的汽车销售系统
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0624/171224_32db7259_7956133.png "屏幕截图.png")
 
 #### 软件架构
 JSP layui
